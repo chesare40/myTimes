@@ -1,0 +1,14 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+}
+
+.nav li {
+  list-style: none;
+  display: inline-block;
+
+}
